@@ -1,5 +1,9 @@
 # powershell-scripts
 
-Various scripts that are written in powershell
+Various scripts that are written in powershell.
 
-A descriptions of what each script does is written at the start of each script
+Descriptions for each script are written at the start of each script.
+
+All scripts in this repository are free to use, and credit isn't needed. 
+
+Scripts are intended for personal use only and are not to be used in any illegal form.

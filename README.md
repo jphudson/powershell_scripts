@@ -1,4 +1,4 @@
-# powershell-scripts
+# powershell_scripts
 
 Various scripts that are written in powershell.
 

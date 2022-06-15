@@ -1,6 +1,6 @@
 <#
   .Synopsis
-  GUI to set an attribute
+  A GUI for setting an attribute.  The only modifications that need to be made is set the attribute at line 26 and set the AD servers at line 43.
   .Description
   @author=john hudson
 
